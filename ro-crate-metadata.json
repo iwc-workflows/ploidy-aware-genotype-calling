@@ -21,22 +21,22 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-03-09T15:45:47.681538",
+            "datePublished": "2026-03-12T21:41:40.351161",
             "hasPart": [
                 {
-                    "@id": "generic-genotype+variant-calling-wgs-pe.ga"
+                    "@id": "genotype-variant-calling-wgs-pe.ga"
                 },
                 {
                     "@id": "README.md"
                 },
                 {
-                    "@id": "generic-genotype+variant-calling-wgs-pe-test.yml"
+                    "@id": "genotype-variant-calling-wgs-pe-test.yml"
                 }
             ],
             "isBasedOn": "https://github.com/iwc-workflows/ploidy-aware-genotype-calling",
             "license": "MIT",
             "mainEntity": {
-                "@id": "generic-genotype+variant-calling-wgs-pe.ga"
+                "@id": "genotype-variant-calling-wgs-pe.ga"
             },
             "mentions": [
                 {
@@ -56,7 +56,7 @@
             }
         },
         {
-            "@id": "generic-genotype+variant-calling-wgs-pe.ga",
+            "@id": "genotype-variant-calling-wgs-pe.ga",
             "@type": [
                 "File",
                 "SoftwareSourceCode",
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/ploidy-aware-genotype-calling",
-            "version": "0.1"
+            "version": "0.1.1"
         },
         {
             "@id": "#galaxy",
@@ -107,7 +107,7 @@
             "@id": "#test_main_1",
             "@type": "TestSuite",
             "definition": {
-                "@id": "generic-genotype+variant-calling-wgs-pe-test.yml"
+                "@id": "genotype-variant-calling-wgs-pe-test.yml"
             },
             "instance": [
                 {
@@ -115,7 +115,7 @@
                 }
             ],
             "mainEntity": {
-                "@id": "generic-genotype+variant-calling-wgs-pe.ga"
+                "@id": "genotype-variant-calling-wgs-pe.ga"
             },
             "name": "test_main_1"
         },
@@ -138,7 +138,7 @@
             }
         },
         {
-            "@id": "generic-genotype+variant-calling-wgs-pe-test.yml",
+            "@id": "genotype-variant-calling-wgs-pe-test.yml",
             "@type": [
                 "File",
                 "TestDefinition"
