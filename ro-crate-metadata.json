@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-09-21T14:08:54.001412",
+            "datePublished": "2026-10-19T14:08:06.791491",
             "hasPart": [
                 {
                     "@id": "genotype-variant-calling-wgs-pe.ga"
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/ploidy-aware-genotype-calling",
-            "version": "0.1.4"
+            "version": "0.1.5"
         },
         {
             "@id": "#galaxy",
