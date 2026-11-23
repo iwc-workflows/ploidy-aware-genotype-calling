@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-19T14:08:06.791491",
+            "datePublished": "2026-11-23T21:27:16.505413",
             "hasPart": [
                 {
                     "@id": "genotype-variant-calling-wgs-pe.ga"
@@ -67,7 +67,7 @@
                     "@id": "https://orcid.org/0009-0003-9935-828X"
                 },
                 {
-                    "@id": "#0000-0002-9464-6640"
+                    "@id": "https://orcid.org/0000-0002-9464-6640"
                 }
             ],
             "name": "ploidy-aware-genotype-calling/main",
@@ -75,7 +75,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/ploidy-aware-genotype-calling",
-            "version": "0.1.5"
+            "version": "0.1.6"
         },
         {
             "@id": "#galaxy",
@@ -95,7 +95,7 @@
             "name": "Saim Momin"
         },
         {
-            "@id": "#0000-0002-9464-6640",
+            "@id": "https://orcid.org/0000-0002-9464-6640",
             "@type": "Person",
             "name": "Wolfgang Maier"
         },
@@ -146,7 +146,7 @@
             "conformsTo": {
                 "@id": "https://w3id.org/ro/terms/test#PlanemoEngine"
             },
-            "engineVersion": ">=0.75.47"
+            "engineVersion": ">=0.75.48"
         },
         {
             "@id": "https://w3id.org/ro/terms/test#PlanemoEngine",
